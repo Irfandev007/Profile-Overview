@@ -1,325 +1,106 @@
-<div align="center">
+# Hi, I'm Irfan Ali
 
-# IRFAN ALI
+### Senior Shopify Developer | Team Lead | E-commerce Specialist
 
-### Senior Shopify Developer · Team Lead
+**Shopify / Shopify Plus • Liquid • Theme Development • Custom E-commerce • Performance Optimization**
 
-**Shopify & E-commerce Engineering**
-
-Building **scalable, high-performance, conversion-focused** digital commerce experiences.
-
-<br>
-
-<img src="https://img.shields.io/badge/Shopify-Developer-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify%20Plus-Developer-111111?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/Liquid-Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-
-<br><br>
-
-<b>5+ Years</b>  •  <b>1000+ Websites</b>  •  <b>Shopify / Shopify Plus</b>  •  <b>Team Leadership</b>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irfandev007)
 
 ---
 
-## 👨‍💻 About Me
+## Skills & Technologies
 
-I'm a **Senior Shopify Developer & Team Lead** with 5+ years of experience building and optimizing e-commerce platforms for **B2B and B2C businesses**.
-
-My expertise combines **Shopify engineering, frontend development, performance optimization, API integrations, and e-commerce strategy** to create experiences that are fast, scalable, maintainable, and built around real business goals.
-
-I enjoy solving complex technical problems, building custom Shopify solutions, and helping development teams deliver high-quality products.
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Sr. Developer & Team Lead
-
-**Noor Ahmed E-Commerce Solutions**
-
-`Mar 2023 — Present` · `Islamabad, Pakistan` · `On-site`
-
-Leading the development and delivery of **Shopify and custom e-commerce solutions**, working across development, design, and business requirements.
-
-<br>
-
-<table>
-<tr>
-<td>🛍️ <b>Shopify Development</b></td>
-<td>🎨 <b>Custom Themes & Sections</b></td>
-</tr>
-<tr>
-<td>💻 <b>Liquid, JavaScript, HTML & CSS</b></td>
-<td>🔌 <b>APIs & Integrations</b></td>
-</tr>
-<tr>
-<td>⚡ <b>Performance Optimization</b></td>
-<td>🔍 <b>Code Review & Standards</b></td>
-</tr>
-<tr>
-<td>👥 <b>Developer Leadership</b></td>
-<td>🤝 <b>Cross-Team Collaboration</b></td>
-</tr>
-</table>
+| **Shopify** | **Frontend** | **E-commerce** | **Tools** |
+|---|---|---|---|
+| Shopify • Shopify Plus | HTML5 • CSS3 | B2B • B2C | Git • GitHub |
+| Liquid • Online Store 2.0 | JavaScript | Custom Storefronts | VS Code |
+| Custom Themes | React | Product Experiences | Shopify CLI |
+| Custom Sections | Responsive UI/UX | Conversion Optimization | Chrome DevTools |
+| Metafields • Metaobjects | Mobile-First | Cart Optimization | AI-Assisted Development |
+| Shopify APIs | Performance Optimization | Technical SEO | API Integrations |
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
 
-<div align="center">
+I’m a **Senior Shopify Developer & Team Lead** with **4+ years of experience** building and optimizing e-commerce experiences for B2B and B2C businesses.
 
-### 🛍️ Shopify Ecosystem
+I specialize in **Shopify, Shopify Plus, Liquid, JavaScript, custom themes, custom sections, APIs, integrations, and performance optimization**.
 
-<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify%20Plus-111111?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Online%20Store%202.0-111111?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify%20CLI-111111?style=for-the-badge&logo=shopify&logoColor=white" />
-
-<br><br>
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-
-<br><br>
-
-### 🔌 APIs & Architecture
-
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Metafields-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Metaobjects-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-
-</div>
+I also lead development teams, review implementations, solve technical challenges, and help deliver scalable and maintainable e-commerce solutions.
 
 ---
 
-## 🎯 Core Expertise
+## Professional Experience
 
-<div align="center">
+### Sr. Developer & Team Lead — Noor Ahmed E-Commerce Solutions
 
-<table>
-<tr>
-<th>🛍️ Shopify</th>
-<th>💻 Development</th>
-<th>🚀 E-commerce</th>
-</tr>
+**Mar 2023 – Present · Islamabad, Pakistan · On-site**
 
-<tr>
-<td>Shopify</td>
-<td>HTML5</td>
-<td>B2B</td>
-</tr>
+- Develop and customize Shopify & Shopify Plus storefronts
+- Build custom themes, sections, templates, and functionality
+- Develop with Liquid, JavaScript, HTML & CSS
+- Integrate Shopify APIs and third-party applications
+- Optimize performance, responsiveness, and user experience
+- Review code and maintain development standards
+- Guide developers and coordinate technical delivery
+- Collaborate with design and marketing teams
 
-<tr>
-<td>Shopify Plus</td>
-<td>CSS3</td>
-<td>B2C</td>
-</tr>
-
-<tr>
-<td>Liquid</td>
-<td>JavaScript</td>
-<td>Custom Storefronts</td>
-</tr>
-
-<tr>
-<td>Online Store 2.0</td>
-<td>React</td>
-<td>Product Experiences</td>
-</tr>
-
-<tr>
-<td>Custom Themes</td>
-<td>Responsive UI</td>
-<td>Conversion UX</td>
-</tr>
-
-<tr>
-<td>Custom Sections</td>
-<td>Mobile-First</td>
-<td>Cart Optimization</td>
-</tr>
-
-<tr>
-<td>Metafields</td>
-<td>Performance</td>
-<td>Technical SEO</td>
-</tr>
-
-<tr>
-<td>Metaobjects</td>
-<td>API Integration</td>
-<td>Store Optimization</td>
-</tr>
-
-</table>
-
-</div>
+**Core:** `Shopify` `Shopify Plus` `Liquid` `JavaScript` `HTML/CSS` `APIs` `Performance` `Team Leadership`
 
 ---
 
-## 📊 Experience
+## Experience Highlights
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 5+
-
-<b>Years Experience</b>
-
-</td>
-
-<td align="center" width="25%">
-
-### 1000+
-
-<b>Websites Built</b>
-
-</td>
-
-<td align="center" width="25%">
-
-### Shopify
-
-<b>Primary Specialization</b>
-
-</td>
-
-<td align="center" width="25%">
-
-### Team Lead
-
-<b>Technical Leadership</b>
-
-</td>
-</tr>
-</table>
-
-</div>
+| **Experience** | **Websites** | **Specialization** | **Leadership** |
+|---|---|---|---|
+| 5+ Years | 1000+ Built | Shopify / Shopify Plus | Team Lead |
 
 ---
 
-## 👨‍💼 Leadership
+## Core Expertise
 
-<div align="center">
-
-As a **Team Lead**, my role goes beyond writing code.
-
-I help teams turn requirements into structured technical solutions while maintaining **quality, consistency, scalability, and delivery standards**.
-
-<br>
-
-`📋 Technical Planning`  
-`🔍 Code Reviews`  
-`👨‍💻 Developer Guidance`
-
-<br><br>
-
-`🧩 Problem Solving`  
-`🚀 Project Delivery`  
-`⚙️ Development Standards`
-
-</div>
+| **Shopify Development** | **E-commerce Development** |
+|---|---|
+| Custom Shopify Themes | B2B & B2C Solutions |
+| Liquid Development | Conversion-Focused UX |
+| Online Store 2.0 | Product Experiences |
+| Custom Sections & Templates | Collection Filtering |
+| Metafields & Metaobjects | Cart Optimization |
+| Shopify APIs & Integrations | Performance Optimization |
+| Shopify CLI | Technical SEO |
 
 ---
 
-## 🧠 Engineering Principles
+## Leadership
 
-<div align="center">
+As a **Team Lead**, I work beyond individual development tasks and help teams deliver reliable technical solutions.
 
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 🧹
-
-<b>Clean Code</b>
-
-Readable, maintainable and scalable solutions.
-
-</td>
-
-<td align="center" width="20%">
-
-### ⚡
-
-<b>Performance</b>
-
-Fast and efficient storefront experiences.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🎨
-
-<b>User Experience</b>
-
-Responsive, intuitive and purposeful interfaces.
-
-</td>
-
-<td align="center" width="20%">
-
-### 📈
-
-<b>Business Impact</b>
-
-Technology aligned with real business objectives.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔄
-
-<b>Continuous Improvement</b>
-
-Always learning, testing and improving.
-
-</td>
-</tr>
-</table>
-
-</div>
+- Technical planning and task breakdown
+- Code reviews and development standards
+- Developer guidance and collaboration
+- Technical problem solving
+- Project coordination and delivery
+- Continuous workflow improvement
 
 ---
 
-## 🎓 Education
+## Education
 
-<div align="center">
-
-### 🎓 Bachelor of Computer Science
+### Bachelor of Computer Science
 
 **Shah Abdul Latif University**
 
-</div>
+---
+
+## Let's Connect
+
+I'm open to **Shopify development, Shopify Plus projects, technical collaboration, and challenging e-commerce projects.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Irfandev007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Irfandev007)
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Irfandev007">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-### ⚡ Build · Optimize · Scale
-
-**Thanks for visiting my profile.**
-
-</div>
+**Build • Optimize • Scale**

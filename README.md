@@ -4,7 +4,7 @@
 
 **Shopify / Shopify Plus • Liquid • Theme Development • Custom E-commerce • Performance Optimization**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/irfan07)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irfandev007)
 
 ---

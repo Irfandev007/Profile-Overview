@@ -98,7 +98,7 @@ As a **Team Lead**, I work beyond individual development tasks and help teams de
 
 I'm open to **Shopify development, Shopify Plus projects, technical collaboration, and challenging e-commerce projects.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/irfan07)
 [![GitHub](https://img.shields.io/badge/GitHub-Irfandev007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Irfandev007)
 
 ---
